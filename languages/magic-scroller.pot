@@ -1,0 +1,143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: magic scroller\n"
+"POT-Creation-Date: 2021-09-04 14:12+0430\n"
+"PO-Revision-Date: 2021-09-04 13:18+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: magic-scroller.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: tpl/admin/settings.php:2
+msgid "Settings"
+msgstr ""
+
+#: tpl/admin/settings.php:13
+msgid "Color Finder"
+msgstr ""
+
+#: tpl/admin/settings.php:20
+msgid "scrollbar color"
+msgstr ""
+
+#: tpl/admin/settings.php:27
+msgid "scrollbar background color"
+msgstr ""
+
+#: tpl/admin/settings.php:34
+msgid "scrollbar hover color"
+msgstr ""
+
+#: tpl/admin/settings.php:41
+msgid "scrollbar with"
+msgstr ""
+
+#: tpl/admin/settings.php:48
+msgid "scrollbar border radius"
+msgstr ""
+
+#: tpl/admin/settings.php:58
+msgid "save changes"
+msgstr ""
+
+#: tpl/admin/work.php:4 tpl/admin/work.php:9
+msgid "Tutorial for using the plugin"
+msgstr ""
+
+#: tpl/admin/work.php:11
+msgid ""
+"* You can write not only the hex code, but also the rgb code or ... color "
+"in the plugin settings section in front of the sections related to scroll "
+"bar colors."
+msgstr ""
+
+#: tpl/admin/work.php:13
+msgid ""
+"* Also, in front of the load scroll width section, you can use other "
+"standard units of measurement such as centimeters to determine the load "
+"scroll width, but note that you must also write the extension of your unit "
+"of measure. For example, for pixel px and for centimeter cm."
+msgstr ""
+
+#: tpl/admin/work.php:15
+msgid ""
+"* The color finder section is just to find the hex code or rgb or ... is a "
+"color and does not change the color of the site scroll bar"
+msgstr ""
+
+#: tpl/admin/work.php:17
+msgid ""
+"* The reason for the simplicity, lack of styles and lack of fonts in the "
+"plugin (in the current version) is because the plugin is always light and "
+"simple."
+msgstr ""
+
+#: tpl/admin/work.php:19
+msgid ""
+"* You can even enter the names of important colors such as blue or green "
+"in English for the scroll bar color in the settings related to the color "
+"scroll bar."
+msgstr ""
+
+#: tpl/admin/work.php:21
+msgid ""
+"* Make sure you always save the settings after entering the desired "
+"information."
+msgstr ""
+
+#: tpl/admin/work.php:23
+msgid "Completed sample of settings section forms for use:"
+msgstr ""
+
+#: tpl/admin/work.php:25
+msgid "Scroll bar color: #001eff"
+msgstr ""
+
+#: tpl/admin/work.php:27
+msgid "Background color: #FF0000"
+msgstr ""
+
+#: tpl/admin/work.php:29
+msgid "Color Hover Scroll Bar: #0013ba"
+msgstr ""
+
+#: tpl/admin/work.php:31
+msgid "scroll width: 20px"
+msgstr ""
+
+#: tpl/admin/work.php:33
+msgid "border redius scroll bar: 5px"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "magic scroller"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://sarzamin-site.ir"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "best plugin for change scrollbar color"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "saleh attari"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "mailto:salehattari1386@gmail.com"
+msgstr ""
